@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/BA2 2019-2020/INFO-H2001/Installation IntelliJ IDEA/javafx-sdk-11.0.2/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Documents/BA2 2019-2020/INFO-H2001/Installation IntelliJ IDEA/javafx-sdk-11.0.2/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Documents/BA2 2019-2020/INFO-H2001/Installation IntelliJ IDEA/javafx-sdk-11.0.2/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Documents/BA2 2019-2020/INFO-H2001/Installation IntelliJ IDEA/javafx-sdk-11.0.2/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
